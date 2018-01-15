@@ -1,3 +1,23 @@
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:visited {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: blue;
+}
+
+a:active {
+    text-decoration: underline;
+    color: blue;
+}
+
 h1 {
   float: left;
   font-family: "Georgia", Times, "Times New Roman", serif;
